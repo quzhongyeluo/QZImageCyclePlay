@@ -1,0 +1,2 @@
+# QZImageCyclePlay
+一个UIScrollView和3个UIImageView实现轮播图效果
