@@ -27,3 +27,7 @@
     [self.cycleView stopCycle];
 }
 ```
+
+效果图：
+
+![](https://github.com/quzhongyeluo/QZImageCyclePlay/blob/master/9%E6%9C%88-17-2017%2018-20-29.gif?raw=true)
